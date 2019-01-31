@@ -1,3 +1,5 @@
+## This fork uses ascii instead of unicode, because unicode was causing problems with some environments. This caused truncation of error strings and database query results to one character.
+
 node-odbc
 ---------
 
