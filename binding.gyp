@@ -14,7 +14,6 @@
         "<!(node -e \"require('nan')\")"
       ],
       'defines' : [
-        'UNICODE'
       ],
       'conditions' : [
         [ 'OS == "linux"', {
